@@ -1,0 +1,23 @@
+{
+  "name": "sha1.js",
+  "version": "0.1.0",
+  "description": "A JavaScript implementation of the complete Secure Hash Standard SHA-1 as well as HMAC",
+  "main": "sha1.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lunkr/SHA-1.git"
+  },
+  "keywords": [
+    "SHA-1",
+    "HMAC"
+  ],
+ "author": {
+    "name": "Belin Chung",
+    "email": "BelinChung@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lunkr/SHA-1/issues"
+  },
+  "homepage": "https://github.com/Lunkr/SHA-1.git"
+}

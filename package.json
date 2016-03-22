@@ -1,6 +1,6 @@
 {
   "name": "sha1.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JavaScript implementation of the complete Secure Hash Standard SHA-1 as well as HMAC",
   "main": "sha1.js",
   "repository": {
@@ -11,7 +11,7 @@
     "SHA-1",
     "HMAC"
   ],
- "author": {
+  "author": {
     "name": "Belin Chung",
     "email": "BelinChung@gmail.com"
   },
